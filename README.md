@@ -16,6 +16,18 @@ the text reloads by itself when another program, such as an AI assistant, change
 English, Spanish and Japanese.<br>
 <a href="https://github.com/Gabriel-Castiglia/wyrmhold-windows">Windows</a> · <a href="https://github.com/Gabriel-Castiglia/wyrmhold">macOS</a></td>
 </tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gabriel-Castiglia/muelle/main/docs/images/icon.png" width="72" alt="Muelle"></td>
+<td><b>Muelle</b>, a dock for Windows: floating with magnification like the Mac's, or a fixed panel like
+Ubuntu's.<br>
+<a href="https://github.com/Gabriel-Castiglia/muelle">Windows</a></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gabriel-Castiglia/haul-windows/main/icono/icono-256.png" width="72" alt="Haul"></td>
+<td><b>Haul</b> downloads videos and music with yt-dlp: you paste the links, choose MP4 or MP3, and a queue does
+the rest.<br>
+<a href="https://github.com/Gabriel-Castiglia/haul-windows">Windows</a> · <a href="https://github.com/Gabriel-Castiglia/haul">macOS</a></td>
+</tr>
 </table>
 
 ### Español
@@ -35,5 +47,17 @@ y el texto se recarga solo cuando otro programa, por ejemplo un asistente de IA,
 <td><b>Wyrmhold</b> hace contraseñas, frases y PIN fuertes en tu computadora y no los guarda en ningún lado. En
 español, inglés y japonés.<br>
 <a href="https://github.com/Gabriel-Castiglia/wyrmhold-windows">Windows</a> · <a href="https://github.com/Gabriel-Castiglia/wyrmhold">macOS</a></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gabriel-Castiglia/muelle/main/docs/images/icon.png" width="72" alt="Muelle"></td>
+<td><b>Muelle</b>, un dock para Windows: flotante y con ampliación como el de la Mac, o un panel fijo como el
+de Ubuntu.<br>
+<a href="https://github.com/Gabriel-Castiglia/muelle">Windows</a></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Gabriel-Castiglia/haul-windows/main/icono/icono-256.png" width="72" alt="Haul"></td>
+<td><b>Haul</b> baja videos y música con yt-dlp: pegás los enlaces, elegís MP4 o MP3, y una cola hace el
+resto.<br>
+<a href="https://github.com/Gabriel-Castiglia/haul-windows">Windows</a> · <a href="https://github.com/Gabriel-Castiglia/haul">macOS</a></td>
 </tr>
 </table>
